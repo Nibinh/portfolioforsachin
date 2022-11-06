@@ -1,0 +1,76 @@
+body{
+    background-color: rgb(126, 79, 79);
+    background-image: url(gokuvegeta.jpg);
+    background-size: cover;
+    text-align: center;
+    margin: 0%;
+    
+}
+
+.menu{
+    background-color: blueviolet;
+    width: 100%;
+    height: 40px;
+    margin-top: 0%;
+    position: fixed;
+
+    
+}
+
+.links{
+    display: inline;
+    padding-left: 30px;
+    font-size: 18px;
+    
+}
+
+a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    text-shadow: 1px 1px 1px rgb(223, 17, 17);
+    
+}
+
+a:hover{
+    color: rgb(255, 160, 18);
+    text-decoration: underline;
+    color: blue;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+.profile{
+    margin-top: 80px;
+    width: 300px;
+
+   
+}
+
+#name{
+    font-family: 'Metal', cursive;
+    font-size: 30px;
+}
+
+#welcome{
+    background: linear-gradient(to right,rgb(245, 150, 7),green);
+}
+
+.line{
+    height: 2px;
+    background-color: black;
+    width: 70px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contact_1 a{
+    color: black;
+    text-shadow: none;
+
+}
+
+.contact_1 h3{
+    display: inline;
+}
